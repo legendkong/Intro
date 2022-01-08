@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @legendkong
+- 👋 Hi, I’m @legendkong, you may call me Kong!
 - 👀 I’m interested in blockchain development, problem solving and creative designing
-- 🌱 I’m currently pursuing computer science in the University of Wollongong, Singapore 
+- 🌱 I’m currently pursuing my bachelor's degree in Computer Science in the University of Wollongong, Singapore 
 - 💞️ I’m looking for internship opportunities in the space of FinTech
 - 📫 You may contact me in Github or drop me a mail at jonathankong96@hotmail.com 
 
